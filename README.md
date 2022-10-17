@@ -2,7 +2,7 @@
 <h3 align="center">Btech (EE) undergrad, aspiring dev!</h3>
 
 - Currently exploring and working in software development
-- Tech Youtube Channel with 1k subcribers
+- Tech Youtube Channel with 1k+ subcribers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
