@@ -3,4 +3,3 @@
 
 - Currently exploring and working in software development
 - Tech Youtube Channel with 1k+ subcribers
-- 
