@@ -4,7 +4,7 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 B.tech undergrad, Aspiring Dev!
 -------------------------------
 
-* 🌐  See my portfolio at [naveendewangan.com](https://naveendewangan.super.site/)
+* 🌐  See my portfolio at [naveendewangan.com](https://naveendwgn.github.io/)
 * 📬  You can contact me at [naveen.dewangan141@gmail.com](mailto:naveen.dewangan141@gmail.com)
 * 🧑‍💻  Currently I'm learning React.js
 * 🎥  Tech Youtube Channel with 1k+ subscribers
