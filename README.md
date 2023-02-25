@@ -8,3 +8,8 @@ B.tech undergrad, Aspiring Dev!
 * 📬  You can contact me at [naveen.dewangan141@gmail.com](mailto:naveen.dewangan141@gmail.com)
 * 🧑‍💻  Currently I'm learning React.js
 * 🎥  Tech Youtube Channel with 1k+ subscribers
+## Connect with me
+- [LinkedIn](www.linkedin.com/in/naveendewangan)
+- [YouTube](https://www.youtube.com/@NaveenDewangan/videos)
+- [Twitter](www.twitter.com/naveenfu)
+- [Instagram](www.instagram.com/naveenxig)
